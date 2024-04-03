@@ -1,0 +1,37 @@
+{
+  "name": "diagramifyr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyrtleTremble356/diagramifyr.git"
+  },
+  "author": "MyrtleTremble356",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyrtleTremble356/diagramifyr/issues"
+  },
+  "homepage": "https://github.com/MyrtleTremble356/diagramifyr#readme",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "debug": "^4.3.4",
+    "express": "^4.19.2",
+    "is-number": "^7.0.0",
+    "is-object": "^1.0.2",
+    "is-odd": "^3.0.1",
+    "is-string": "^1.0.7",
+    "jquery": "^3.7.1",
+    "lazy-store-loader": "^2.0.3",
+    "nodemon": "^3.1.0",
+    "octokit": "^3.1.2",
+    "qs": "^6.12.0",
+    "uuid": "^9.0.1",
+    "vue": "^3.4.21",
+    "webpack": "^5.91.0",
+    "[object Object]": "^1.0.0"
+  }
+}
